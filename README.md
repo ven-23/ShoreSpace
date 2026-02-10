@@ -1,4 +1,4 @@
-# 🌊 ShoreSpace | Smart Parking Intelligence Suite
+# 📍 ShoreSpace | Smart Parking
 
 ![Version](https://img.shields.io/badge/version-2.0.0--beta-cyan?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-Apache--2.0-indigo?style=for-the-badge)
